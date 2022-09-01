@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(127, 150, 220);
+    text-align: center;
+
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+}
+.esas{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+.esas:hover {
+    background-color: #fff;
+    color: blue;
+    opacity: 0.8;
+}
